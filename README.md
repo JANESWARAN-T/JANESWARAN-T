@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA - OOPS , DSA**
 
-- 💬 Ask me about **Html, CSS, Javascript, Java, Python, Fluuter**
+- 💬 Ask me about **Html, CSS, Javascript, Java, Python, Flutter**
 
 - 📫 How to reach me **t.janeswaran@gmail.com**
 

@@ -30,9 +30,7 @@
 </p>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeswaran-t&show_icons=true&locale=en" alt="janeswaran-t" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janeswaran-t&" alt="janeswaran-t" /></p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <hr />
